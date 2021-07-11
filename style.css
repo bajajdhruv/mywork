@@ -1,0 +1,28 @@
+body {
+  text-align:center;
+  background-image: linear-gradient(red, yellow);
+  background-repeat:no-repeat;
+}
+img{
+ border-radius:50%;
+  width:100px;
+}
+h1{
+  text-shadow:2px 2px #F8BBDO;
+  font-size:20px;
+}
+li:hover {
+    background-color: crimson;}
+.menu{
+list-style: none;
+float: right;
+top: 10px;
+right: 30px;
+cursor: pointer;
+color: black;
+
+}
+li {
+  display: inline;
+    left: 30px
+}
